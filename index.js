@@ -1,1 +1,0 @@
-alert("Mohamed Samba Diallo");
